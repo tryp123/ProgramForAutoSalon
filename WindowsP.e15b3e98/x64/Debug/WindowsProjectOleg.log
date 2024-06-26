@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\ДИПЛОМ\WindowsProjectOleg\main.cpp(541,31): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+D:\ДИПЛОМ\WindowsProjectOleg\main.cpp(754,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ДИПЛОМ\WindowsProjectOleg\main.cpp(770,31): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+D:\ДИПЛОМ\WindowsProjectOleg\main.cpp(771,31): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+D:\ДИПЛОМ\WindowsProjectOleg\main.cpp(827,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ДИПЛОМ\WindowsProjectOleg\main.cpp(836,31): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+D:\ДИПЛОМ\WindowsProjectOleg\main.cpp(837,31): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+  WindowsProjectOleg.vcxproj -> D:\ДИПЛОМ\WindowsProjectOleg\x64\Debug\WindowsProjectOleg.exe

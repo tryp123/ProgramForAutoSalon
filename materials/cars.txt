@@ -1,0 +1,2 @@
+Photos: "D:\ДИПЛОМ\WindowsProjectOleg\materials\bmw-xseries-iX1-modellfinder.png.asset.1695990294650.bmp", "D:\ДИПЛОМ\WindowsProjectOleg\materials\e5.jpg" /Year: 1968 /Model: Oleg /Description: aa
+Photos: "D:\ДИПЛОМ\WindowsProjectOleg\materials\bmw-xseries-iX1-modellfinder.png.asset.1695990294650.bmp" /Year: 2020 /Model: BMW /Description: 4000$
